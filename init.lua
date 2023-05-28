@@ -17,14 +17,10 @@ return {
     },
   },
   -- Set colorscheme to use
-<<<<<<< HEAD
   colorscheme = "gruvbox-material",
-=======
-  colorscheme = "astrodark",
   vim.cmd "autocmd TermOpen * startinsert",
 
 
->>>>>>> ed7a1ae0b636ae9028ae4406208f746534c4ec94
   -- Diagnostics configuration (for vim.diagnostics.config({...})) when diagnostics are on
   diagnostics = {
     virtual_text = true,
