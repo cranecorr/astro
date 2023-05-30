@@ -9,6 +9,7 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
-  { "wittyjudge/gruvbox-material.nvim" },
-  { "ellisonleao/gruvbox.nvim" },
+    { "morhetz/gruvbox" },
+  --{ "wittyjudge/gruvbox-material.nvim" },
+  --{ "ellisonleao/gruvbox.nvim" },
 }

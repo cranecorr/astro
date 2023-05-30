@@ -17,7 +17,7 @@ return {
     },
   },
   -- Set colorscheme to use
-  colorscheme = "gruvbox-material",
+  colorscheme = "astrodark",
   vim.cmd "autocmd TermOpen * startinsert",
 
 
