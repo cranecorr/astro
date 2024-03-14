@@ -33,7 +33,7 @@ return {
   },
   -- Set colorscheme to use
   -- colorscheme = "astrodark",
-  colorscheme = "gruvbox",
+  colorscheme = "gruvbox-baby",
   vim.cmd "autocmd TermOpen * startinsert",
   -- Diagnostics configuration (for vim.diagnostics.config({...})) when diagnostics are on
   diagnostics = {
